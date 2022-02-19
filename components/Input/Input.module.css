@@ -1,0 +1,7 @@
+/* .InputContainer {
+} */
+
+.InputContainer > label {
+  display: flex;
+  align-items: center;
+}
