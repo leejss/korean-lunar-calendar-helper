@@ -1,0 +1,7 @@
+.Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* place-content: center; */
+  min-block-size: 100vh;
+}
